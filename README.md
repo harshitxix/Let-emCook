@@ -1,14 +1,14 @@
-# Let'emCook 🍪🛡️
+# Let'emCook 
 
 **Let'emCook** is an intelligent, privacy-focused browser extension that acts as your personal web privacy assistant. It automatically detects cookie-consent interfaces, analyzes tracking technologies, and automatically accepts or rejects cookies based on your personalized privacy preferences. 
 
 Browse the web seamlessly without the endless interruption of irritating cookie popups, while maintaining total control over your digital footprint!
 
-## 🎯 Purpose
+## Purpose
 
 The primary objective of Let'emCook is to eliminate the friction of cookie-consent banners while strictly enforcing your privacy choices. It is not just a simple "cookie blocker." It's a **Cookie Consent Decision Engine**, designed to understand what cookies are being used, what they do, and apply your preferences automatically.
 
-## ✨ Features
+## Features
 
 - **Automated Cookie Consent:** Detects cookie banners and consent interfaces across the web and automatically interacts with them.
 - **Smart Classification Engine:** Identifies and categorizes cookies (Necessary, Functional, Analytics, Advertising, Social Media).
@@ -17,7 +17,7 @@ The primary objective of Let'emCook is to eliminate the friction of cookie-conse
 - **Decision Transparency:** Records decisions locally and provides explanations on why certain cookies were accepted or rejected.
 - **Interactive Dashboard:** A comprehensive dashboard to view statistics, manage your privacy profile, and monitor recent automated consent actions.
 
-## 🛠️ Technologies & Tools Used
+## Technologies & Tools Used
 
 - **HTML5 & CSS3:** For structuring and styling the extension's popup and dashboard interfaces.
 - **Vanilla JavaScript (ES6+):** Powers the core logic, content scripts, and background service workers without heavy framework dependencies.
@@ -27,7 +27,7 @@ The primary objective of Let'emCook is to eliminate the friction of cookie-conse
   - `Storage API` for saving user preferences and consent history.
   - `declarativeNetRequest` for network request interception and ad/tracker blocking.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── VISION.md          # Comprehensive product vision and roadmap
@@ -41,7 +41,7 @@ The primary objective of Let'emCook is to eliminate the friction of cookie-conse
 └── rules.json         # Declarative Net Request rules for blocking trackers
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation (Developer Mode)
 
@@ -55,7 +55,7 @@ The primary objective of Let'emCook is to eliminate the friction of cookie-conse
 5. Select the directory where you cloned the repository.
 6. The Let'emCook extension is now installed and ready to cook! 🍳
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/harshitxix/Let-emCook/issues).
 
